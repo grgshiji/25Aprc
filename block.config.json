@@ -1,0 +1,16 @@
+{
+  "name": "25Aprc",
+  "type": "package",
+  "blockId": "uP2c-EVNxNGyCbvYmsR6T",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_25Aprc"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
