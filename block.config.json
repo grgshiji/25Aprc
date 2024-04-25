@@ -3,8 +3,8 @@
   "type": "package",
   "blockId": "uP2c-EVNxNGyCbvYmsR6T",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/25Aprc.git",
+    "ssh": "git@github.com:grgshiji/25Aprc.git",
     "branch": "block_25Aprc"
   },
   "parentBlockIDs": [],
